@@ -1,7 +1,3 @@
-# CODE DES. START FROM HERE
+# CODE DES. START FROM HERE aabbccdd
 
-## LINE 1
-## LINE 2
-
-## Line 3
-## Line 4
+abcdef
